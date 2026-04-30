@@ -136,3 +136,5 @@ if(isset($_POST['cadastrar'])){
    <button type="submit" name="cadastrar">Cadastrar</button>
 </form>
 
+<a href="login.php">ja cadastrado</a>
+
